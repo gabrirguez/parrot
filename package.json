@@ -1,0 +1,15 @@
+{
+  "name": "parrot",
+  "version": "1.0.0",
+  "description": "A psychedelic parrot made with Node.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabri Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.4.0",
+    "mz": "2.7.0"
+  }
+}
